@@ -1,4 +1,1 @@
-fastapi
-uvicorn[standard]
-pydantic
-pydantic-settings
+fastapi[all]
