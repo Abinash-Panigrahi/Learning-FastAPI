@@ -1,1 +1,5 @@
 fastapi[all]
+google-genai
+python-dotenv
+streamlit
+requests
